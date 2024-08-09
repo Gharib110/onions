@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Gharib Personal Blog</title>
+    <link>https://onions.ir/categories/</link>
+    <description>Recent content in Categories on Gharib Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Alireza Gharib. All right reserved</copyright>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://onions.ir/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TON</title>
+      <link>https://onions.ir/categories/ton/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/ton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DNS, Acme.sh</title>
+      <link>https://onions.ir/categories/dns-acme.sh/</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/dns-acme.sh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proxy, VPN</title>
+      <link>https://onions.ir/categories/proxy-vpn/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/proxy-vpn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
