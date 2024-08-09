@@ -7,13 +7,111 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Alireza Gharib. All right reserved</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://onions.ir/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App, Security</title>
+      <link>https://onions.ir/categories/app-security/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/app-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CFT, CaptureTheFlag</title>
+      <link>https://onions.ir/categories/cft-capturetheflag/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/cft-capturetheflag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT</title>
+      <link>https://onions.ir/categories/osint/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/osint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sec, Android, Security</title>
+      <link>https://onions.ir/categories/sec-android-security/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/sec-android-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SocialEngineering, Social</title>
+      <link>https://onions.ir/categories/socialengineering-social/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/socialengineering-social/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Onion</title>
+      <link>https://onions.ir/categories/onion/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/onion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT, Forensics</title>
+      <link>https://onions.ir/categories/osint-forensics/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/osint-forensics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sec, Security</title>
+      <link>https://onions.ir/categories/sec-security/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/sec-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hacking, Hack</title>
+      <link>https://onions.ir/categories/hacking-hack/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/hacking-hack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT, SocialMediaOSINT</title>
+      <link>https://onions.ir/categories/osint-socialmediaosint/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/osint-socialmediaosint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IncidentResponse</title>
+      <link>https://onions.ir/categories/incidentresponse/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/incidentresponse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT, OffensiveOSINT</title>
+      <link>https://onions.ir/categories/osint-offensiveosint/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/osint-offensiveosint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OSINT, OSINTCountries</title>
+      <link>https://onions.ir/categories/osint-osintcountries/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/osint-osintcountries/</guid>
+      <description></description>
+    </item>
     <item>
       <title>TON</title>
       <link>https://onions.ir/categories/ton/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://onions.ir/categories/ton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Honeypots</title>
+      <link>https://onions.ir/categories/honeypots/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/honeypots/</guid>
       <description></description>
     </item>
     <item>
@@ -24,10 +122,31 @@
       <description></description>
     </item>
     <item>
+      <title>InfoSec, Sec, Security</title>
+      <link>https://onions.ir/categories/infosec-sec-security/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/infosec-sec-security/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Proxy, VPN</title>
       <link>https://onions.ir/categories/proxy-vpn/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://onions.ir/categories/proxy-vpn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MalwareAnalysis, Malware</title>
+      <link>https://onions.ir/categories/malwareanalysis-malware/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/malwareanalysis-malware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pentest, PenetrationTest</title>
+      <link>https://onions.ir/categories/pentest-penetrationtest/</link>
+      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/categories/pentest-penetrationtest/</guid>
       <description></description>
     </item>
   </channel>
