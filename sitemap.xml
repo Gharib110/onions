@@ -185,15 +185,6 @@
     <loc>https://onions.ir/posts/osint16/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://onions.ir/posts/dns/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://onions.ir/categories/dns-acme.sh/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://onions.ir/tags/dns-acme.sh-tls/</loc>
-    <lastmod>2024-07-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://onions.ir/posts/osint11/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -238,5 +229,11 @@
   </url><url>
     <loc>https://onions.ir/categories/pentest-penetrationtest/</loc>
     <lastmod>2024-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/posts/dns/</loc>
+  </url><url>
+    <loc>https://onions.ir/categories/dns-acme.sh/</loc>
+  </url><url>
+    <loc>https://onions.ir/tags/dns-acme.sh-tls/</loc>
   </url>
 </urlset>
