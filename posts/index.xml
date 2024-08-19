@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Alireza Gharib. All right reserved</copyright>
-    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://onions.ir/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Tools</title>
+      <link>https://onions.ir/posts/ai/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://onions.ir/posts/ai/</guid>
+      <description>Popular and Worthy AI Tools</description>
+    </item>
     <item>
       <title>Onion Links</title>
       <link>https://onions.ir/posts/onions6/</link>

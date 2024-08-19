@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://onions.ir/posts/ai/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/tags/ai-tools/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/categories/ai-tools/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://onions.ir/categories/</loc>
-    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://onions.ir/</loc>
-    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/posts/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/tags/</loc>
+    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://onions.ir/posts/onions6/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://onions.ir/categories/onion-tor-onionlinks/</loc>
-    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://onions.ir/posts/</loc>
-    <lastmod>2024-08-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://onions.ir/tags/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://onions.ir/tags/tor-onion-onion_links/</loc>
