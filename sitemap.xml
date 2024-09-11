@@ -3,24 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://onions.ir/categories/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://onions.ir/tags/cicd-github-actions/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://onions.ir/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/tags/mastodon-federation/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/categories/mastodon-federation/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/categories/matrix-element-federation/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/tags/matrix-federation-element/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/posts/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/posts/mastodon/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/posts/element/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/tags/</loc>
+    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onions.ir/tags/cicd-github-actions/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://onions.ir/posts/githubactions/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://onions.ir/categories/github-actions-ci/cd/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://onions.ir/posts/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://onions.ir/tags/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://onions.ir/tags/java/</loc>
